@@ -1,0 +1,23 @@
+nav{
+    padding: 10px;
+    margin: 10px;
+    display: inline-block
+    }
+.columna { 
+    background-color: tomato;
+    color: white;
+    padding: 20px;
+    width: 25%;
+    margin: 10px;
+}
+
+.bloques { 
+display: flex;
+
+}
+a{
+    background-color: rgb(71, 184, 255);
+    color: white;
+    margin: 10px;
+
+}

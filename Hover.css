@@ -1,0 +1,18 @@
+button{
+
+    background-color: teal;
+    color: whitesmoke;
+}
+
+button:hover{
+
+    background: #ff7e67;
+    color: #ffffff;
+    margin: 10px;
+    
+}
+button:active{
+
+    background: #838383;
+
+}
